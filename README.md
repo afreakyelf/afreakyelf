@@ -1,6 +1,4 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-[![Header](https://raw.githubusercontent.com/afreakyelf/afreakyelf/main/header.gif "Header")](https://martinheinz.dev/)
+![Header](https://raw.githubusercontent.com/afreakyelf/afreakyelf/main/header.gif "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -30,7 +28,7 @@ My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/afreakyelf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreakyelf&&layout=compact&hide=javascript,dart&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreakyelf&hide=javascript,dart&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/afreakyelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=afreakyelf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rajat's GitHub Stats" />
@@ -38,6 +36,10 @@ My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I
 
 <a href="https://github.com/afreakyelf/pdf-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afreakyelf&repo=pdf-viewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<a href="https://github.com/afreakyelf/AndroidHorizontalCalendar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afreakyelf&repo=AndroidHorizontalCalendar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
