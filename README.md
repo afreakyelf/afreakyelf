@@ -9,7 +9,7 @@ My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I
 - I love developing libraries to smooth work for developers
 -  I am currently setting my foot on iOS and Microservices
 - 🤝 I’m looking to collaborate on any Android project.
-- 💬 Ask me about java, Android.
+- 💬 Ask me about Java, Kotlin, Android.
 - 🤓 Feel free to contribute to my library [![Github][2.1]][4]
 - I am into Aviation ✈️ and Gaming 🎮
 
@@ -46,15 +46,14 @@ My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png 
+[2.1]: http://i.imgur.com/0o48UoR.png 
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
+[1.2]: http://i.imgur.com/wWzX9uB.png 
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+[2.1]: http://i.imgur.com/9I6NRUm.png 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/afrekyelf
