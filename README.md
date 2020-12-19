@@ -4,8 +4,6 @@
 
 My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I'm from India, living in Hyderabad and currently working at DBS Bank. You can find me on [![LinkedIn][3.2]][3].
 
-![](https://komarev.com/ghpvc/?username=afreakyelf&style=flat&label=Visitors&color=lightgrey)
-
 ## &#129470; Other Stuff
 
 - I love developing libraries to smooth work for developers
