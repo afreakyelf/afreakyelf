@@ -59,7 +59,7 @@ My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I
 
 [1]: https://twitter.com/afrekyelf
 [2]: https://github.com/afreakyelf
-[3]: https://www.linkedin.com/in/afrekyelf/
+[3]: https://www.linkedin.com/in/afreakyelf/
 [4]: https://github.com/afreakyelf/pdf-viewer
 
 <!-- Resources -->
