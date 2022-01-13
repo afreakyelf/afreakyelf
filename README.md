@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I'm from India, living in Hyderabad and currently working at DBS Bank. You can find me on [![LinkedIn][3.2]][3].
+My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I'm from India, living in Clemson, SC and currently pursuing my Masters in Computer science at Clemson University. You can find me on [![LinkedIn][3.2]][3].
 
 ## &#129470; Other Stuff
 
@@ -11,7 +11,7 @@ My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I
 - 🤝 I’m looking to collaborate on any Android project.
 - 💬 Ask me about Java, Kotlin, Android.
 - 🤓 Feel free to contribute to my library [![Github][2.1]][4]
-- I am into Aviation ✈️ and Gaming 🎮
+- I am into Aviation ✈️ and Tech stuff 🖥
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
