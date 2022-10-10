@@ -24,7 +24,7 @@ My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CQ-SonarQube-informational?style=flat&logo=Sonarqube&logoColor=white&color=2bbc8a)
-
+![](https://komarev.com/ghpvc/?username=afreakyelf&label=Profile+Views)
 
 ## &#x1f4c8; GitHub Stats
 
