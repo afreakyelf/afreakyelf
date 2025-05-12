@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rajat Mittal and I'm a Software Developer (Android and Full stack). I'm from India, living in Clemson, SC and currently pursuing my Masters in Computer science at Clemson University. You can find me on [![LinkedIn][3.2]][3].
+My name is Rajat Mittal and I'm a Mobile Developer. I'm from India, living in Seattle, WA and working on building next generation of Prime Video. You can find me on [![LinkedIn][3.2]][3].
 
 ## &#129470; Other Stuff
 
